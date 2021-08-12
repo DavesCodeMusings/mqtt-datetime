@@ -12,8 +12,8 @@
 
 // Change to match local settings.
 const mqttUrl = 'mqtt://127.0.0.1';
-const mqttUser = 'mqtt';
-const mqttPassword = 'password';
+const mqttUser = 'Contoso';
+const mqttPassword = 'P@ssw0rd';
 const mqttTopicRoot = 'datetime';
 
 const mqtt = require('mqtt');  // This package comes from NPM. Install with the command 'npm -i mqtt'.
